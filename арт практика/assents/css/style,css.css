@@ -1,0 +1,94 @@
+body {
+    font-family: "Jura", sans-serif;
+    background-color: #20282b;
+font-size: 20px;
+
+}
+.logo
+.logo-image
+{
+    display: block;
+    width: 61px;
+    height: 53px;
+    background-image: url(../images/лого.png);
+    
+    background-repeat: no-repeat;
+}
+.nav {
+    display: flex;
+    list-style-type: none;
+    justify-content: center;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  height: 100%;
+}
+.nav >li {
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.nav >li {
+    
+    text-decoration-color: #ffffff;
+}
+.birch{
+
+    background-image: url(../images/07fdccccef1228dca81b5c621ecdb5ca.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+    padding-top: 100px;
+padding-bottom: 100px;
+
+}
+
+.title {
+    text-align: center;
+    font-size: 168px;
+    font-weight: 700;
+    text-shadow:
+    2px 0 rgb(255, 255, 255),
+    0 -2px rgb(255, 255, 255),
+    -2px 0 rgb(255, 255, 255),
+    0 2px rgb(255, 255, 255);
+}
+
+
+.wrapper {
+}
+  .background_attachment {
+    width: 100%;
+    height: 650px;
+    background-image: url("../images/бирч.png");
+    background-size: containt;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: rgb(0, 0, 0);
+    padding: 20px;
+  }
+
+
+  
+  
+
+  .background_clip {
+    
+    font-size: 30px;
+    margin: auto;
+  height: 774px;
+  width: 774px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  text-align: left;
+  background-clip: text;
+  -webkit-background-clip: text;
+
+ }
+
+ .filter_class {
+    background-image: url("../images/бирч.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+ }
+  
+
+  
