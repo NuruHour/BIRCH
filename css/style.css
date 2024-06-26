@@ -4,12 +4,9 @@ body {
 font-size: 20px;
 
 }
-
-
- 
-
- 
-
+html {
+  scroll-behavior: smooth;
+}
 .logo
 
 .logo-image
@@ -31,6 +28,12 @@ outline: none;
 a:link {color: #ffffff;}
 a:visited {
   color: #ffffff;
+  
+}
+a:focus, 
+a:hover {
+  border-bottom: 1px solid;
+
 }
 .nav {
     display: flex;
